@@ -1,0 +1,11 @@
+/* styles.css */
+img {
+    height: 250px;
+    width: 250px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    background-color: yellow
+}
